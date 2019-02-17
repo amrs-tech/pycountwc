@@ -2,7 +2,7 @@
 A python 3.x package to count words, letters without space, and letters including space in a provided file.
 
 ## How to install
-pip install pycountwc
+(pip install pycountwc)[https://pypi.org/project/pycountwc/]
 
 ## How to use
 This package consists of three functions:
