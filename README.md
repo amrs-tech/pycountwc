@@ -13,3 +13,12 @@ This package consists of three functions:
 Pass in your required file (to count words/chars) to any of the above function.
 
 Contributions are most welcome.
+
+## Example
+```python
+import pycountwc.pycountwc as pp
+pp.word(" ") #give your filename
+'''This returns an integer denoting number of words'''
+pp.wschar(" ") #filename inside quotes
+'''This returns an integer denoting number of characters without space count'''
+```
