@@ -5,6 +5,7 @@
 [![PyPI](https://img.shields.io/pypi/v/pycountwc.svg)](https://pypi.org/project/pycountwc/)
 
 A python 3.x package to count words, letters without space, and letters including space in a provided file.
+This package works well for macOS.
 
 ## How to install
 ```python
