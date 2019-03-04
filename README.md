@@ -6,7 +6,7 @@
 [![Contributions](https://img.shields.io/badge/contributions-welcome-green.svg)](https://img.shields.io/badge/contributions-welcome-green.svg)
 
 A python 3.x package to count words, letters without space, and letters including space in a provided file.
-This package works well for macOS.
+This package works well for Unix OS.
 
 ## How to install
 ```python
