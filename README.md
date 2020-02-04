@@ -1,5 +1,6 @@
 # pycountwc
 
+[![Build Status](https://travis-ci.org/amrs-tech/pycountwc.svg?branch=master)](https://travis-ci.org/amrs-tech/pycountwc)
 [![GitHub](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://raw.githubusercontent.com/amrs-tech/pycountwc/master/LICENSE)
 [![PyPI Downloads](https://img.shields.io/pypi/dm/pycountwc.svg)](https://pypi.org/project/pycountwc/)
 [![PyPI](https://img.shields.io/pypi/v/pycountwc.svg)](https://pypi.org/project/pycountwc/)
